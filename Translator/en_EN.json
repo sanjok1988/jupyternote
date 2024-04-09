@@ -1,0 +1,11 @@
+{
+    "messages": {
+        "welcome": null,
+        "please-sign-in": null,
+        "tableHeader": {
+            "salary": null,
+            "status": null,
+            "action": null
+        }
+    }
+}

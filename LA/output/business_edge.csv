@@ -1,0 +1,72 @@
+student_id,lastname,firstname,lastname_long,firstname_long,Contract date,Course end date,Contract number,status,Contract line number,Subject/test/product name,Number of lessons after discount,Remaining number of courses,skill,level,en_status,month
+L1105200352,阿部,新平,アベ,シンペイ,2023-09-23,1990-01-01,K02633305,1：契約確定,KM21116509,Business Edge Book2,32,28,Business English,Level 2,Contract confirmed,1990-01
+L1803301437,平野,修,ヒラノ,オサム,2023-12-22,1990-01-01,K02666311,1：契約確定,KM21488881,RS Business Edge 演習 4回,4,1,RS Business English,Level 0,Contract confirmed,1990-01
+L1905411823,入江,勝基,イリエ,ショウキ,2022-09-18,1990-01-01,K02463271,1：契約確定,KM19190287,Business Edge Book3,32,5,Business English,Level 3,Contract confirmed,1990-01
+L1905411823,入江,勝基,イリエ,ショウキ,2023-11-11,1990-01-01,K02654916,1：契約確定,KM21368939,Business Edge Book3,32,32,Business English,Level 3,Contract confirmed,1990-01
+L2001464838,野村,哲司,ノムラ,テツジ,2023-10-29,1990-01-01,K02649629,1：契約確定,KM21307437,Business Edge Book5,32,32,Business English,Level 5,Contract confirmed,1990-01
+L2001464838,野村,哲司,ノムラ,テツジ,2023-10-29,1990-01-01,K02649629,1：契約確定,KM21308165,Business Edge 演習 1回,1,1,Business English,Level 0,Contract confirmed,1990-01
+L2006522352,神谷,剛宏,カミヤ,タケヒロ,2023-03-05,1990-01-01,K02542607,1：契約確定,KM20168873,Business Edge Book2,32,1,Business English,Level 2,Contract confirmed,1990-01
+L2201655713,吉澤,恵美,ヨシザワ,エミ,2023-10-28,1990-01-01,K02648976,1：契約確定,KM21298613,Business Edge Book6,32,24,Business English,Level 6,Contract confirmed,1990-01
+L2203672761,鈴木,雄一郎,スズキ,ユウイチロウ,2023-08-06,1990-01-01,K02611268,1：契約確定,KM20889112,Business Edge Book5,32,5,Business English,Level 5,Contract confirmed,1990-01
+L2204680203,馬門,純江,マカド,スミエ,2024-01-30,1990-01-01,K02688539,1：契約確定,KM21747024,Business Edge Book5,32,32,Business English,Level 5,Contract confirmed,1990-01
+L2204680203,馬門,純江,マカド,スミエ,2024-01-30,1990-01-01,K02688539,1：契約確定,KM21747019,Business Edge Book4,32,32,Business English,Level 4,Contract confirmed,1990-01
+L2204680203,馬門,純江,マカド,スミエ,2024-01-30,1990-01-01,K02688539,1：契約確定,KM21747032,Business Edge Book6,32,32,Business English,Level 6,Contract confirmed,1990-01
+L2205688447,梶浦,留美,カジウラ,ルミ,2024-01-21,1990-01-01,K02684686,1：契約確定,KM21697784,Business Edge Book5,32,32,Business English,Level 5,Contract confirmed,1990-01
+L2210716527,吉留,亮二,ヨシトメ,リョウジ,2023-03-28,1990-01-01,K02551957,1：契約確定,KM20297899,Business Edge Book3,32,0,Business English,Level 3,Contract confirmed,1990-01
+L2210716527,吉留,亮二,ヨシトメ,リョウジ,2023-03-28,1990-01-01,K02551957,1：契約確定,KM20297901,Business Edge Book4,32,1,Business English,Level 4,Contract confirmed,1990-01
+L2302740421,長谷部,綾子,ハセベ,アヤコ,2023-03-19,1990-01-01,K02548782,1：契約確定,KM20242433,Business Edge Book5,32,0,Business English,Level 5,Contract confirmed,1990-01
+L2302740421,長谷部,綾子,ハセベ,アヤコ,2023-03-19,1990-01-01,K02548782,1：契約確定,KM20242436,Business Edge Book6,32,1,Business English,Level 6,Contract confirmed,1990-01
+L2302740421,長谷部,綾子,ハセベ,アヤコ,2023-11-25,1990-01-01,K02657696,1：契約確定,KM21439203,Business Edge 演習 1回,1,1,Business English,Level 0,Contract confirmed,1990-01
+L2302741900,村田,充弥,ムラタ,ミツヤ,2024-01-27,1990-01-01,K02678801,1：契約確定,KM21625408,Business Edge Book3,32,32,Business English,Level 3,Contract confirmed,1990-01
+L2303751447,森本,加奈子,モリモト,カナコ,2023-07-29,1990-01-01,K02609324,1：契約確定,KM20869876,Business Edge Book2,32,32,Business English,Level 2,Contract confirmed,1990-01
+L2303751447,森本,加奈子,モリモト,カナコ,2023-07-29,1990-01-01,K02609324,1：契約確定,KM20869873,Business Edge Book1,32,20,Business English,Level 1,Contract confirmed,1990-01
+L2303751549,井田,裕子,イダ,ヒロコ,2023-11-07,1990-01-01,K02653685,1：契約確定,KM21353309,Business Edge Book5,32,32,Business English,Level 5,Contract confirmed,1990-01
+L2303751549,井田,裕子,イダ,ヒロコ,2023-11-07,1990-01-01,K02653685,1：契約確定,KM21353307,Business Edge Book4,32,12,Business English,Level 4,Contract confirmed,1990-01
+L2304756395,小池,佑佳,コイケ,ユウカ,2023-10-02,1990-01-01,K02638343,1：契約確定,KM21166832,Business Edge Book5,32,9,Business English,Level 5,Contract confirmed,1990-01
+L2304756395,小池,佑佳,コイケ,ユウカ,2023-10-02,1990-01-01,K02638343,1：契約確定,KM21166871,Business Edge 演習 3回,3,1,Business English,Level 0,Contract confirmed,1990-01
+L2304759435,淺見,太一,アサミ,タイチ,2023-12-26,1990-01-01,K02675611,1：契約確定,KM21596422,Business Edge Book5,32,24,Business English,Level 5,Contract confirmed,1990-01
+L2305763911,藤土,豊,フジト,ユタカ,2023-11-17,1990-01-01,K02650497,1：契約確定,KM21316490,Business Edge Book4,32,18,Business English,Level 4,Contract confirmed,1990-01
+L2306769518,西村,徳彦,ニシムラ,ノリヒコ,2023-06-24,1990-01-01,K02593804,1：契約確定,KM20714784,Business Edge Book1,32,18,Business English,Level 1,Contract confirmed,1990-01
+L2306769518,西村,徳彦,ニシムラ,ノリヒコ,2023-06-24,1990-01-01,K02593804,1：契約確定,KM20715582,Business Edge Foundation,32,0,Business English,Level 0,Contract confirmed,1990-01
+L2306771302,谷,尚史,タニ,ナオフミ,2023-09-23,1990-01-01,K02630325,1：契約確定,KM21115322,Business Edge 演習 1回,1,0,Business English,Level 0,Contract confirmed,1990-01
+L2306771302,谷,尚史,タニ,ナオフミ,2023-09-23,1990-01-01,K02630325,1：契約確定,KM21083546,Business Edge Book3,32,6,Business English,Level 3,Contract confirmed,1990-01
+L2306771302,谷,尚史,タニ,ナオフミ,2023-12-16,1990-01-01,K02671325,1：契約確定,KM21547587,Business Edge 演習 5回,5,1,Business English,Level 0,Contract confirmed,1990-01
+L2306771302,谷,尚史,タニ,ナオフミ,2023-12-16,1990-01-01,K02671325,1：契約確定,KM21547580,Business Edge Book4,32,32,Business English,Level 4,Contract confirmed,1990-01
+L2307773606,弓田,怜央,ユミタ,レオ,2023-07-09,1990-01-01,K02601047,1：契約確定,KM20781310,Business Edge Book2,32,9,Business English,Level 2,Contract confirmed,1990-01
+L2307775286,中島,良平,ナカジマ,リョウヘイ,2023-08-16,1990-01-01,K02616214,1：契約確定,KM20941950,Business Edge Book2,32,0,Business English,Level 2,Contract confirmed,1990-01
+L2307775286,中島,良平,ナカジマ,リョウヘイ,2023-08-16,1990-01-01,K02616214,1：契約確定,KM20941952,Business Edge Book3,32,1,Business English,Level 3,Contract confirmed,1990-01
+L2307775638,稲冨,誉也,イナトミ,タカナリ,2023-07-22,1990-01-01,K02605938,1：契約確定,KM20833531,Business Edge Book4,32,5,Business English,Level 4,Contract confirmed,1990-01
+L2309785323,五嶋,靖,ゴトウ,ヤスシ,2023-09-20,1990-01-01,K02631456,1：契約確定,KM21095619,Business Edge Book5,32,8,Business English,Level 5,Contract confirmed,1990-01
+L2309785323,五嶋,靖,ゴトウ,ヤスシ,2023-09-20,1990-01-01,K02631456,1：契約確定,KM21095622,Business Edge Book6,32,32,Business English,Level 6,Contract confirmed,1990-01
+L2310787454,塩澤,亜希子,シオザワ,アキコ,2023-10-22,1990-01-01,K02642335,1：契約確定,KM21213700,Business Edge Book4,32,8,Business English,Level 4,Contract confirmed,1990-01
+L2310787766,栗波,栞里,クリナミ,シオリ,2023-10-07,1990-01-01,K02639840,1：契約確定,KM21184598,Business Edge Book2,32,19,Business English,Level 2,Contract confirmed,1990-01
+L2310788173,伊藤,彩,イトウ,アヤ,2023-12-17,1990-01-01,K02671877,1：契約確定,KM21555374,Business Edge Book1,32,27,Business English,Level 1,Contract confirmed,1990-01
+L2310788264,冨山,亜子,トミヤマ,アコ,2023-10-30,1990-01-01,K02644982,1：契約確定,KM21250574,Business Edge Book2,32,14,Business English,Level 2,Contract confirmed,1990-01
+L2310788842,金森,晏子,カナモリ,アコ,2023-10-17,1990-01-01,K02643736,1：契約確定,KM21231708,Business Edge Book5,32,32,Business English,Level 5,Contract confirmed,1990-01
+L2310788842,金森,晏子,カナモリ,アコ,2023-10-17,1990-01-01,K02643736,1：契約確定,KM21231608,Business Edge Book4,32,10,Business English,Level 4,Contract confirmed,1990-01
+L2310791251,砂川,祐恵,スナガワ,サチエ,2023-10-27,1990-01-01,K02648541,1：契約確定,KM21292914,Business Edge Book1,32,17,Business English,Level 1,Contract confirmed,1990-01
+L2310791252,神原,隆,カンバラ,リュウ,2023-11-25,1990-01-01,K02657273,1：契約確定,KM21402821,Business Edge Book4,32,17,Business English,Level 4,Contract confirmed,1990-01
+L2310792537,垣田,美紀,カキタ,ミキ,2023-11-30,1990-01-01,K02651957,1：契約確定,KM21335251,Business Edge Book2,32,22,Business English,Level 2,Contract confirmed,1990-01
+L2310792537,垣田,美紀,カキタ,ミキ,2023-11-30,1990-01-01,K02651957,1：契約確定,KM21335249,Business Edge Book3,32,32,Business English,Level 3,Contract confirmed,1990-01
+L2310792688,福田,佳奈,フクダ,カナ,2023-11-30,1990-01-01,K02655870,1：契約確定,KM21381322,Business Edge Book4,32,25,Business English,Level 4,Contract confirmed,1990-01
+L2311792952,藤井,麻紀子,フジイ,マキコ,2023-11-14,1990-01-01,K02653364,1：契約確定,KM21348398,Business Edge Book2,32,19,Business English,Level 2,Contract confirmed,1990-01
+L2311793474,熊谷,桜子,クマガイ,サクラコ,2023-11-14,1990-01-01,K02655738,1：契約確定,KM21380094,Business Edge Book2,32,16,Business English,Level 2,Contract confirmed,1990-01
+L2312800466,金子,雄太,カネコ,ユウタ,2023-12-21,1990-01-01,K02673288,1：契約確定,KM21571266,Business Edge Book4,32,24,Business English,Level 4,Contract confirmed,1990-01
+L2312800713,大城,博樹,オオシロ,ヒロキ,2023-12-22,1990-01-01,K02673807,1：契約確定,KM21576979,Business Edge Book2,32,30,Business English,Level 2,Contract confirmed,1990-01
+L2312800713,大城,博樹,オオシロ,ヒロキ,2023-12-22,1990-01-01,K02673807,1：契約確定,KM21576981,Business Edge Book3,32,32,Business English,Level 3,Contract confirmed,1990-01
+L2312800715,伊藤,環,イトウ,タマキ,2023-12-29,1990-01-01,K02677068,1：契約確定,KM21612802,Business Edge Book2,32,25,Business English,Level 2,Contract confirmed,1990-01
+L2401802771,笹原,史成,ササハラ,フミマサ,2024-01-20,1990-01-01,K02681199,1：契約確定,KM21676637,Business Edge Book1,32,30,Business English,Level 1,Contract confirmed,1990-01
+L2401802771,笹原,史成,ササハラ,フミマサ,2024-01-20,1990-01-01,K02681199,1：契約確定,KM21676641,Business Edge Book2,32,32,Business English,Level 2,Contract confirmed,1990-01
+L2401802771,笹原,史成,ササハラ,フミマサ,2024-01-20,1990-01-01,K02681199,1：契約確定,KM21676639,Business Edge Book3,32,32,Business English,Level 3,Contract confirmed,1990-01
+L2401804090,梅原,将一,ウメハラ,マサカズ,2024-01-27,1990-01-01,K02681743,1：契約確定,KM21662391,Business Edge Book2,32,32,Business English,Level 2,Contract confirmed,1990-01
+L2401804091,國場,薫,クニバ,カオル,2024-01-28,1990-01-01,K02687392,1：契約確定,KM21732193,Business Edge Book2,32,32,Business English,Level 2,Contract confirmed,1990-01
+L2401804091,國場,薫,クニバ,カオル,2024-01-28,1990-01-01,K02687392,1：契約確定,KM21732195,Business Edge Book3,32,32,Business English,Level 3,Contract confirmed,1990-01
+L2401804091,國場,薫,クニバ,カオル,2024-01-28,1990-01-01,K02687392,1：契約確定,KM21732197,Business Edge Book4,32,32,Business English,Level 4,Contract confirmed,1990-01
+L2401804392,冨永,悠介,トミナガ,ユウスケ,2024-01-30,1990-01-01,K02685289,1：契約確定,KM21705464,Business Edge Book5,32,32,Business English,Level 5,Contract confirmed,1990-01
+L2401804392,冨永,悠介,トミナガ,ユウスケ,2024-01-30,1990-01-01,K02685289,1：契約確定,KM21705462,Business Edge Book4,32,32,Business English,Level 4,Contract confirmed,1990-01
+L2401804897,澤山,典裕,サワヤマ,フミヒロ,2024-01-24,1990-01-01,K02685390,1：契約確定,KM21706812,Business Edge Book2,32,32,Business English,Level 2,Contract confirmed,1990-01
+L2401805242,冨岡,孝仁,トミオカ,タカヒト,2024-01-30,1990-01-01,K02684552,1：契約確定,KM21696196,Business Edge Book2,32,32,Business English,Level 2,Contract confirmed,1990-01
+L2401806196,細田,圭,ホソダ,ケイ,2024-01-28,1990-01-01,K02688211,1：契約確定,KM21743173,Business Edge Book4,32,32,Business English,Level 4,Contract confirmed,1990-01
+L2401806509,平本,貴之,ヒラモト,タカユキ,2024-01-29,1990-01-01,K02687067,1：契約確定,KM21728436,Business Edge Book1,32,32,Business English,Level 1,Contract confirmed,1990-01
+L2401806509,平本,貴之,ヒラモト,タカユキ,2024-01-29,1990-01-01,K02687067,1：契約確定,KM21728434,Business Edge Foundation,32,32,Business English,Level 0,Contract confirmed,1990-01
+L2401806657,西岡,大貴,ニシオカ,ヒロキ,2024-01-28,1990-01-01,K02687222,1：契約確定,KM21730299,Business Edge Book4,32,32,Business English,Level 4,Contract confirmed,1990-01

@@ -1,0 +1,287 @@
+{
+    "Add-Points": "Add Points",
+    "Create": "Create",
+    "Type": "Type",
+    "account-setting-general": {},
+    "actions": {
+        "auto-play": "Auto Play",
+        "clear-selection": "Clear Selection",
+        "create-game": "Create Game Wrapper",
+        "delete-anyway": "Delete Anyway",
+        "delete-curriculumPage-question": "Are you sure, you want to delete this curriculum page?",
+        "featured": "Featured",
+        "global-cefr": "Global CEFR Contribution",
+        "local-cefr": "Local CEFR Contribution",
+        "read-game": "Game Wrapper",
+        "remove-shared": "Remove Shared Lessons",
+        "select-all": "Select All",
+        "set-new-password": "Set New Password",
+        "show-curriculum-user": "Show Curriculum Users",
+        "teachers": "Teachers",
+        "unpublish": "Unpublish",
+        "update-game": "Update Game Wrapper",
+        "upload-image": "Upload Image",
+        "view-students": "View Students"
+    },
+    "active-class": "Active Classroom",
+    "adaptive-learning-module": {
+        "actions-table": {},
+        "algorithms-table": {}
+    },
+    "ai-ide-module": {},
+    "animateditem-module": {},
+    "assets-module": {},
+    "attendance-module": {},
+    "calendar-module": {},
+    "calendar-template": {},
+    "calibration-module": {},
+    "camera-permission-module": {
+        "chrome": {},
+        "edge": {},
+        "firefox": {},
+        "safari": {}
+    },
+    "certificate": {},
+    "chat": {},
+    "class-module": {
+        "all-grades": "Select Grades",
+        "class-table": {},
+        "overall-report": "Overall report",
+        "student-role": {},
+        "student-table": {},
+        "test-time": "Test Time",
+        "unlockable-sequenced": "Unlockable Sequenced"
+    },
+    "class-test": {
+        "class-test-alter": "Class Test Alert"
+    },
+    "common": {},
+    "completed": "completed",
+    "course-completion-module": {
+        "table-header": {}
+    },
+    "courses-module": {
+        "lang-level-indicator": "Lang Level indicator",
+        "set": "Set",
+        "table-head": {}
+    },
+    "curriculum-pages-module": {
+        "mismatch-table": {},
+        "vocab-table": {}
+    },
+    "curriculumPage-module": {
+        "curriculum-table": {}
+    },
+    "engagement-setting-module": {},
+    "engine-page": {
+        "current": "Current Problems"
+    },
+    "essay-builder-module": {
+        "cancel-for-teacher-review": "Remove Teacher review",
+        "publish-article": "Publish Article",
+        "submit-for-teacher-review": "Submit For Teacher review"
+    },
+    "game-settings-module": {},
+    "graphs": {},
+    "help-videos-moduel": {},
+    "hide": "Hide",
+    "higher-level-report-module": {},
+    "image-library-module": {},
+    "individual-report-module": {
+        "comparative_summary": {},
+        "performance_summary": {},
+        "status": {},
+        "study-habit": {}
+    },
+    "issue-comment-module": {
+        "button": {}
+    },
+    "issue-report-module": {},
+    "labels": {
+        "create-article": {},
+        "create-problem": {
+            "placeholder": {}
+        }
+    },
+    "lesson-pages-module": {
+        "four-level": "Four Level",
+        "generate-vocab-lesson": "Generate Vocab Lesson",
+        "import-csv": "Import CSV",
+        "listening": "Listening",
+        "mismatched-problem": "Mismatched Problem",
+        "name": "Name",
+        "no-visualization-data": "This lesson doesn't have any visualization data",
+        "normal-lesson": "Normal Lesson",
+        "queue-explorer": "Queue Explorer",
+        "reading": "Reading",
+        "show-mismatched-problem": "Show Mismatched Problem",
+        "speaking": "Speaking",
+        "vocab-table": {},
+        "writing": "Writing"
+    },
+    "lessonPage-module": {
+        "lesson-table": {}
+    },
+    "library-moduel": {},
+    "marketplace-module": {},
+    "messages": {
+        "no-past-event": "There are no past event.",
+        "tableHeader": {}
+    },
+    "navigation-menu": {},
+    "navigations": {
+        "back-to-statement": "Back to Statement",
+        "show-instruction": "Show Scripts"
+    },
+    "network-member-types": {},
+    "network-module": {
+        "charity-table": {},
+        "member-table": {},
+        "network-table": {},
+        "sponsor-table": {}
+    },
+    "nick-name": "Nick name",
+    "page-link-module": {},
+    "pairing": {},
+    "partner-module": {},
+    "permissions-module": {
+        "users-table": {
+            "action": "Action",
+            "image": "Image",
+            "name": "Name"
+        }
+    },
+    "points-setting-module": {},
+    "problem-types": {
+        "category": "Category",
+        "drag-position": "Drag Position",
+        "drag-position-form": "Drag Position Form",
+        "fib-dropdown": "FIB Dropdown",
+        "matching-listening": "Matching Listening",
+        "multiple-choice": "Multiple Choice",
+        "multiple-choice-listening": "Multiple Choice Listening",
+        "open-end-writing": "Open-end problem",
+        "speech": "Speech",
+        "text-selection": "Text Selection"
+    },
+    "profile-module": {},
+    "questions": {
+        "delete-multiple-problem": "Are you sure you want to delete selected problems?",
+        "delete-timestamp": "Are you sure you want to delete this timestamp?",
+        "force-delete-problem": "Problem is aleady used by students and recorded in statistics. Do you wish to delete it anyway?",
+        "remove-shared": "Are you sure you want to remove all the shared lessons?",
+        "restore-user": "Are you sure you want to restore this user?"
+    },
+    "rating": {},
+    "report": {},
+    "requests": {
+        "select-course": "Please select a Course",
+        "select-domain": "Please select a Domain",
+        "select-lesson": "Please select a Lesson",
+        "select-lesson-group": "Please select a Lesson Group",
+        "select-standard": "Please select a Standard"
+    },
+    "reservation-moduel": {},
+    "role-permissions-module": {
+        "create-new-role": "Create New Role",
+        "create-role": "Create Role",
+        "module": "Module",
+        "permission": "Permission",
+        "role-name": "Role",
+        "role-permission": "Role & Permissions",
+        "update-role": "Update Role"
+    },
+    "scorm-module": {},
+    "self-evaluation": {},
+    "send-notification-module": {
+        "notification-url": "Notification Url"
+    },
+    "setting-module": {
+        "academic-skills-title": "Academic Skills",
+        "activity-report-desc": "By Selecting this, shool will have control over to show or hide Avtivity Report under Study Skills report.",
+        "activity-report-title": "Activity Report",
+        "attendance-report-desc": "By Selecting this, shool will have control over to show or hide Attendance Report under Study Skills report.",
+        "attendance-report-title": "Attendance Report",
+        "bagde": "Enabling this will hide badge inside the classroom.",
+        "chat-report-desc": "By Selecting this, shool will have control over to show or hide Chat Report under Social Skills report",
+        "chat-report-title": "Chat Report",
+        "class-test-report-desc": "By Selecting this, shool will have control over to show or hide Class Test Report",
+        "class-test-report-title": "Class Test Report",
+        "game-report-desc": "By Selecting this, shool will have control over to show or hide Game report",
+        "game-report-title": "Game Report",
+        "language-skills-report-desc": "By Selecting this, shool will have control over to show or hide Language Skills Report under Language Skills report.",
+        "language-skills-report-title": "Language Skills Report",
+        "language-skills-title": "Language Skills",
+        "lesson-completion-rate-desc": "By Selecting this, shool will have control over to show or hide Lesson Completion Rate under Academic Skills report.",
+        "lesson-completion-rate-title": "Lesson Completion Rate",
+        "note-report-desc": "By Selecting this, shool will have control over to show or hide Note Report under Social Skills report.",
+        "note-report-title": "Note Report",
+        "problem-solving-skills-desc": "By Selecting this, shool will have control over to show or hide Problem Solving Skills under Academic Skills report.",
+        "problem-solving-skills-title": "Problem Solving Skills",
+        "proficiency-on-lessons-desc": "By Selecting this, shool will have control over to show or hide Proficiency On Lessons under Academic Skills report.",
+        "proficiency-on-lessons-title": "Proficiency On Lessons",
+        "role-report-desc": "By Selecting this, shool will have control over to show or hide Role Report under Social Skills report",
+        "role-report-title": "Role Report",
+        "schedule-report-desc": "By Selecting this, shool will have control over to show or hide Schedule Report under Study Skills report.",
+        "schedule-report-title": "Schedule Report",
+        "social-skills-title": "Social Skills",
+        "study-skills-title": "Study Skills"
+    },
+    "show": "Show",
+    "standard-module": {},
+    "standards": {
+        "actions": {},
+        "name": {},
+        "questions": {}
+    },
+    "started": "Started",
+    "student-diary-module": {},
+    "student-lab-module": {
+        "contact-administrator": "Please contact administrator to publish materials",
+        "practice-materials-not-publised": "Practice Materials are not published yet.",
+        "select-option-to-start": "Select option to start",
+        "start-auto-play": "Start Auto Play",
+        "start-lesson-with-option": "Start Lesson With Option"
+    },
+    "student-notes-module": {},
+    "student-profile": {},
+    "student-report-module": {
+        "lesson-table": {},
+        "problem-solving-time": "Problem Solving Time",
+        "problem-table": {},
+        "standards-table": {},
+        "student-struggled-and-did-not-pass": "The student struggled and did not pass",
+        "student-struggled-but-passed": "The student struggled but passed",
+        "student-table": {},
+        "summary-table": {
+            "performance-score": "Performance Score"
+        },
+        "timezone": "Timezone"
+    },
+    "student-test-module": {
+        "Completed": "completed",
+        "completed-all-standards-student": "has completed all standards of",
+        "drag-position-drag-hint": "Drag the button in the dotted box.",
+        "drag-position-problem-hint": "Drag in the dotted box",
+        "drag-position-touch-hint": "Touch the button, and then touch the dotted box.",
+        "problem": "Problem",
+        "question-answer": "Question & Answer",
+        "speech-problem-hint": "Record your response to match the answers."
+    },
+    "teacher-schedule": {},
+    "template-module": {
+        "enter-template-text": "Enter template text"
+    },
+    "third-party-module": {},
+    "translation-wordnet-module": {
+        "no-data-available": "Sorry, no data available"
+    },
+    "user-module": {
+        "user-table": {}
+    },
+    "user-notification-module": {},
+    "user-time-spent": {},
+    "user-types": {},
+    "users-module": {},
+    "validation-messages": {}
+}
