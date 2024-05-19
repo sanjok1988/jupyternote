@@ -1,0 +1,542 @@
+"school_id","firstname","lastname","email","class_id","name","total_students"
+2531,Link,Academy,linkschool@gmail.com,1700,Test Classroom (LA),1
+2531,Link,Academy,linkschool@gmail.com,1717,link,1
+2531,Link,Academy,linkschool@gmail.com,1750,English Advantage - Starter Book 1,1
+2531,Link,Academy,linkschool@gmail.com,1751,English Advantage - Novice Book 2,1
+2531,Link,Academy,linkschool@gmail.com,1752,English Advantage - Novice Book 3,1
+2531,Link,Academy,linkschool@gmail.com,1753,English Advantage - Intermediate Book 4,1
+2531,Link,Academy,linkschool@gmail.com,1754,English Advantage - Intermediate Book 5,1
+2531,Link,Academy,linkschool@gmail.com,1755,English Advantage - Intermediate Book 6,1
+2531,Link,Academy,linkschool@gmail.com,1756,English Advantage - Pre-Advanced Book 7,1
+2531,Link,Academy,linkschool@gmail.com,1757,English Advantage - Pre-Advanced Book 8,1
+2531,Link,Academy,linkschool@gmail.com,1758,English Advantage - Pre-Advanced Book 9,1
+2531,Link,Academy,linkschool@gmail.com,1759,English Advantage - Pre-Advanced Book 10,1
+2531,Link,Academy,linkschool@gmail.com,1760,English Advantage - Foundations,1
+2531,Link,Academy,linkschool@gmail.com,1761,Business Edge - Book 1 (A1),1
+2531,Link,Academy,linkschool@gmail.com,1762,Business Edge - Book 2 (A2),1
+2531,Link,Academy,linkschool@gmail.com,1763,Business Edge - Book 3 (A2),1
+2531,Link,Academy,linkschool@gmail.com,1764,Business Edge - Book 4 (B1),1
+2531,Link,Academy,linkschool@gmail.com,1765,Business Edge - Book 5 (B1),1
+2531,Link,Academy,linkschool@gmail.com,1766,Business Edge - Book 6 (B1),1
+2531,Link,Academy,linkschool@gmail.com,1767,Business Edge - Foundations,1
+2531,Link,Academy,linkschool@gmail.com,1770,English Advantage - Foundations Demo,1
+2531,Link,Academy,linkschool@gmail.com,1786,Link Demo,1
+4211,マーサ21校,school,la000176@globalenglishcampus.com,2996,English Advantage - Intermediate Book 4,3
+4211,マーサ21校,school,la000176@globalenglishcampus.com,2993,English Advantage - Book 1,5
+4211,マーサ21校,school,la000176@globalenglishcampus.com,2994,English Advantage - Novice Book 2,5
+4211,マーサ21校,school,la000176@globalenglishcampus.com,2995,English Advantage - Novice Book 3,4
+4215,津田沼校,school,la000184@globalenglishcampus.com,3034,English Advantage - Intermediate Book 6,1
+4215,津田沼校,school,la000184@globalenglishcampus.com,3039,English Advantage - Foundations,1
+4215,津田沼校,school,la000184@globalenglishcampus.com,3030,English Advantage - Novice Book 2,3
+4215,津田沼校,school,la000184@globalenglishcampus.com,3029,English Advantage - Book 1,3
+4215,津田沼校,school,la000184@globalenglishcampus.com,3031,English Advantage - Novice Book 3,2
+4215,津田沼校,school,la000184@globalenglishcampus.com,3032,English Advantage - Intermediate Book 4,2
+4215,津田沼校,school,la000184@globalenglishcampus.com,3033,English Advantage - Intermediate Book 5,1
+4217,金山校,school,la000001@globalenglishcampus.com,3052,English Advantage - Intermediate Book 6,2
+4217,金山校,school,la000001@globalenglishcampus.com,3051,English Advantage - Intermediate Book 5,1
+4217,金山校,school,la000001@globalenglishcampus.com,3057,English Advantage - Foundations,2
+4217,金山校,school,la000001@globalenglishcampus.com,3047,English Advantage - Book 1,3
+4217,金山校,school,la000001@globalenglishcampus.com,3048,English Advantage - Novice Book 2,5
+4217,金山校,school,la000001@globalenglishcampus.com,3049,English Advantage - Novice Book 3,5
+4217,金山校,school,la000001@globalenglishcampus.com,3050,English Advantage - Intermediate Book 4,5
+4247,溝の口校,school,la000166@globalenglishcampus.com,3317,English Advantage - Book 1,3
+4247,溝の口校,school,la000166@globalenglishcampus.com,3318,English Advantage - Novice Book 2,3
+4247,溝の口校,school,la000166@globalenglishcampus.com,3319,English Advantage - Novice Book 3,3
+4247,溝の口校,school,la000166@globalenglishcampus.com,3327,English Advantage - Foundations,3
+4225,新宿校,school,la000183@globalenglishcampus.com,3121,English Advantage - Novice Book 3,25
+4225,新宿校,school,la000183@globalenglishcampus.com,3119,English Advantage - Book 1,19
+4225,新宿校,school,la000183@globalenglishcampus.com,3120,English Advantage - Novice Book 2,22
+4225,新宿校,school,la000183@globalenglishcampus.com,3127,English Advantage - Pre-Advanced Book 9,10
+4225,新宿校,school,la000183@globalenglishcampus.com,3128,English Advantage - Pre-Advanced Book 10,9
+4221,池袋校,school,la000068@globalenglishcampus.com,3083,English Advantage - Book 1,10
+4221,池袋校,school,la000068@globalenglishcampus.com,3086,English Advantage - Intermediate Book 4,10
+4221,池袋校,school,la000068@globalenglishcampus.com,3084,English Advantage - Novice Book 2,12
+4221,池袋校,school,la000068@globalenglishcampus.com,3085,English Advantage - Novice Book 3,12
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3791,English Advantage - Pre-Advanced Book 7,3
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3792,English Advantage - Pre-Advanced Book 8,3
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3786,English Advantage - Novice Book 2,7
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3787,English Advantage - Novice Book 3,4
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3788,English Advantage - Intermediate Book 4,4
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3789,English Advantage - Intermediate Book 5,2
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3790,English Advantage - Intermediate Book 6,2
+4211,マーサ21校,school,la000176@globalenglishcampus.com,3000,English Advantage - Pre-Advanced Book 8,2
+4211,マーサ21校,school,la000176@globalenglishcampus.com,2997,English Advantage - Intermediate Book 5,1
+4211,マーサ21校,school,la000176@globalenglishcampus.com,2998,English Advantage - Intermediate Book 6,1
+4211,マーサ21校,school,la000176@globalenglishcampus.com,2999,English Advantage - Pre-Advanced Book 7,2
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3581,Business Edge - Book 2 (A2),2
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3573,English Advantage - Intermediate Book 5,5
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3574,English Advantage - Intermediate Book 6,4
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3570,English Advantage - Novice Book 2,5
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3571,English Advantage - Novice Book 3,4
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3572,English Advantage - Intermediate Book 4,4
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3582,Business Edge - Book 3 (A2),1
+3993,柏駅前校,school,la87@globalenglishcampus.com,1958,English Advantage - Book 1,1
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3569,English Advantage - Book 1,4
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3534,English Advantage - Novice Book 2,3
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4021,English Advantage - Novice Book 3,1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4029,English Advantage - Foundations,1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4019,English Advantage - Book 1,1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4020,English Advantage - Novice Book 2,1
+4283,銀座校,school,la000160@globalenglishcampus.com,3643,English Advantage - Novice Book 3,15
+4283,銀座校,school,la000160@globalenglishcampus.com,3644,English Advantage - Intermediate Book 4,22
+4283,銀座校,school,la000160@globalenglishcampus.com,3645,English Advantage - Intermediate Book 5,19
+4283,銀座校,school,la000160@globalenglishcampus.com,3642,English Advantage - Novice Book 2,14
+4283,銀座校,school,la000160@globalenglishcampus.com,3641,English Advantage - Book 1,12
+4283,銀座校,school,la000160@globalenglishcampus.com,3651,English Advantage - Foundations,3
+4259,仙台駅前校,school,la000085@globalenglishcampus.com,3425,English Advantage - Book 1,2
+4259,仙台駅前校,school,la000085@globalenglishcampus.com,3426,English Advantage - Novice Book 2,2
+4259,仙台駅前校,school,la000085@globalenglishcampus.com,3427,English Advantage - Novice Book 3,2
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4424,English Advantage - Pre-Advanced Book 10,1
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4418,English Advantage - Intermediate Book 4,3
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4419,English Advantage - Intermediate Book 5,3
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4420,English Advantage - Intermediate Book 6,1
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4421,English Advantage - Pre-Advanced Book 7,1
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4422,English Advantage - Pre-Advanced Book 8,1
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4423,English Advantage - Pre-Advanced Book 9,1
+4221,池袋校,school,la000068@globalenglishcampus.com,3098,Business Edge - Book 5 (B1),1
+4221,池袋校,school,la000068@globalenglishcampus.com,3087,English Advantage - Intermediate Book 5,8
+4221,池袋校,school,la000068@globalenglishcampus.com,3088,English Advantage - Intermediate Book 6,7
+4221,池袋校,school,la000068@globalenglishcampus.com,3089,English Advantage - Pre-Advanced Book 7,6
+4283,銀座校,school,la000160@globalenglishcampus.com,3647,English Advantage - Pre-Advanced Book 7,11
+4283,銀座校,school,la000160@globalenglishcampus.com,3648,English Advantage - Pre-Advanced Book 8,10
+4283,銀座校,school,la000160@globalenglishcampus.com,3646,English Advantage - Intermediate Book 6,12
+4243,小倉校,school,la000178@globalenglishcampus.com,3288,English Advantage - Pre-Advanced Book 8,1
+4243,小倉校,school,la000178@globalenglishcampus.com,3289,English Advantage - Pre-Advanced Book 9,1
+4243,小倉校,school,la000178@globalenglishcampus.com,3290,English Advantage - Pre-Advanced Book 10,1
+4243,小倉校,school,la000178@globalenglishcampus.com,3282,English Advantage - Novice Book 2,3
+4243,小倉校,school,la000178@globalenglishcampus.com,3283,English Advantage - Novice Book 3,3
+4243,小倉校,school,la000178@globalenglishcampus.com,3284,English Advantage - Intermediate Book 4,1
+4243,小倉校,school,la000178@globalenglishcampus.com,3285,English Advantage - Intermediate Book 5,1
+4243,小倉校,school,la000178@globalenglishcampus.com,3286,English Advantage - Intermediate Book 6,1
+4243,小倉校,school,la000178@globalenglishcampus.com,3287,English Advantage - Pre-Advanced Book 7,1
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3785,English Advantage - Book 1,6
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3795,English Advantage - Foundations,6
+4293,徳島校,school,la000427@globalenglishcampus.com,3734,English Advantage - Intermediate Book 4,2
+4293,徳島校,school,la000427@globalenglishcampus.com,3735,English Advantage - Intermediate Book 5,1
+4293,徳島校,school,la000427@globalenglishcampus.com,3736,English Advantage - Intermediate Book 6,1
+4293,徳島校,school,la000427@globalenglishcampus.com,3731,English Advantage - Book 1,2
+4293,徳島校,school,la000427@globalenglishcampus.com,3732,English Advantage - Novice Book 2,3
+4293,徳島校,school,la000427@globalenglishcampus.com,3733,English Advantage - Novice Book 3,2
+4263,横浜校,school,la000059@globalenglishcampus.com,3470,English Advantage - Pre-Advanced Book 10,1
+4263,横浜校,school,la000059@globalenglishcampus.com,3467,English Advantage - Pre-Advanced Book 7,1
+4263,横浜校,school,la000059@globalenglishcampus.com,3469,English Advantage - Pre-Advanced Book 9,1
+4225,新宿校,school,la000183@globalenglishcampus.com,3126,English Advantage - Pre-Advanced Book 8,12
+4301,天神校,school,la000205@globalenglishcampus.com,3812,English Advantage - Pre-Advanced Book 10,1
+4301,天神校,school,la000205@globalenglishcampus.com,3810,English Advantage - Pre-Advanced Book 8,1
+4301,天神校,school,la000205@globalenglishcampus.com,3811,English Advantage - Pre-Advanced Book 9,1
+4301,天神校,school,la000205@globalenglishcampus.com,3803,English Advantage - Book 1,3
+4301,天神校,school,la000205@globalenglishcampus.com,3804,English Advantage - Novice Book 2,5
+4301,天神校,school,la000205@globalenglishcampus.com,3805,English Advantage - Novice Book 3,3
+4301,天神校,school,la000205@globalenglishcampus.com,3806,English Advantage - Intermediate Book 4,3
+4301,天神校,school,la000205@globalenglishcampus.com,3807,English Advantage - Intermediate Book 5,3
+4301,天神校,school,la000205@globalenglishcampus.com,3808,English Advantage - Intermediate Book 6,1
+4301,天神校,school,la000205@globalenglishcampus.com,3809,English Advantage - Pre-Advanced Book 7,1
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2850,English Advantage - Novice Book 2,16
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2851,English Advantage - Novice Book 3,11
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2852,English Advantage - Intermediate Book 4,11
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2854,English Advantage - Intermediate Book 6,9
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2855,English Advantage - Pre-Advanced Book 7,4
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2858,English Advantage - Pre-Advanced Book 10,2
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2849,English Advantage - Book 1,9
+4017,川崎ルフロン校,school,la70@globalenglishcampus.com,2176,English Advantage - Novice Book 3,1
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3875,English Advantage - Book 1,7
+4225,新宿校,school,la000183@globalenglishcampus.com,3123,English Advantage - Intermediate Book 5,25
+4225,新宿校,school,la000183@globalenglishcampus.com,3124,English Advantage - Intermediate Book 6,20
+4225,新宿校,school,la000183@globalenglishcampus.com,3125,English Advantage - Pre-Advanced Book 7,17
+4327,梅田校,school,la000073@globalenglishcampus.com,4039,English Advantage - Novice Book 3,18
+4327,梅田校,school,la000073@globalenglishcampus.com,4041,English Advantage - Intermediate Book 5,15
+4327,梅田校,school,la000073@globalenglishcampus.com,4042,English Advantage - Intermediate Book 6,14
+4327,梅田校,school,la000073@globalenglishcampus.com,4043,English Advantage - Pre-Advanced Book 7,12
+4327,梅田校,school,la000073@globalenglishcampus.com,4049,Business Edge - Book 2 (A2),4
+4327,梅田校,school,la000073@globalenglishcampus.com,4050,Business Edge - Book 3 (A2),3
+4327,梅田校,school,la000073@globalenglishcampus.com,4051,Business Edge - Book 4 (B1),3
+4327,梅田校,school,la000073@globalenglishcampus.com,4046,English Advantage - Pre-Advanced Book 10,3
+4327,梅田校,school,la000073@globalenglishcampus.com,4045,English Advantage - Pre-Advanced Book 9,6
+4327,梅田校,school,la000073@globalenglishcampus.com,4044,English Advantage - Pre-Advanced Book 8,8
+4327,梅田校,school,la000073@globalenglishcampus.com,4038,English Advantage - Novice Book 2,15
+4327,梅田校,school,la000073@globalenglishcampus.com,4040,English Advantage - Intermediate Book 4,16
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4061,English Advantage - Pre-Advanced Book 7,2
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4062,English Advantage - Pre-Advanced Book 8,2
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4063,English Advantage - Pre-Advanced Book 9,2
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4064,English Advantage - Pre-Advanced Book 10,1
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3575,English Advantage - Pre-Advanced Book 7,3
+3985,浦和パルコ校,school,la122@globalenglishcampus.com,1891,English Advantage - Intermediate Book 6,1
+3985,浦和パルコ校,school,la122@globalenglishcampus.com,1892,English Advantage - Pre-Advanced Book 7,1
+3985,浦和パルコ校,school,la122@globalenglishcampus.com,1893,English Advantage - Pre-Advanced Book 8,1
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4644,Business Edge - Book 3 (A2),2
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4631,English Advantage - Book 1,1
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4632,English Advantage - Novice Book 2,2
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4633,English Advantage - Novice Book 3,2
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4643,Business Edge - Book 2 (A2),1
+4311,ピオレ姫路校,school,la000333@globalenglishcampus.com,3896,English Advantage - Intermediate Book 4,2
+4311,ピオレ姫路校,school,la000333@globalenglishcampus.com,3894,English Advantage - Novice Book 2,4
+4311,ピオレ姫路校,school,la000333@globalenglishcampus.com,3895,English Advantage - Novice Book 3,2
+4311,ピオレ姫路校,school,la000333@globalenglishcampus.com,3897,English Advantage - Intermediate Book 5,3
+4311,ピオレ姫路校,school,la000333@globalenglishcampus.com,3898,English Advantage - Intermediate Book 6,3
+4225,新宿校,school,la000183@globalenglishcampus.com,3122,English Advantage - Intermediate Book 4,25
+4237,立川校,school,la000056@globalenglishcampus.com,3234,English Advantage - Pre-Advanced Book 8,1
+4237,立川校,school,la000056@globalenglishcampus.com,3235,English Advantage - Pre-Advanced Book 9,1
+4237,立川校,school,la000056@globalenglishcampus.com,3227,English Advantage - Book 1,4
+4237,立川校,school,la000056@globalenglishcampus.com,3228,English Advantage - Novice Book 2,5
+4237,立川校,school,la000056@globalenglishcampus.com,3229,English Advantage - Novice Book 3,4
+4237,立川校,school,la000056@globalenglishcampus.com,3232,English Advantage - Intermediate Book 6,3
+4237,立川校,school,la000056@globalenglishcampus.com,3230,English Advantage - Intermediate Book 4,3
+4237,立川校,school,la000056@globalenglishcampus.com,3231,English Advantage - Intermediate Book 5,3
+4237,立川校,school,la000056@globalenglishcampus.com,3233,English Advantage - Pre-Advanced Book 7,1
+4327,梅田校,school,la000073@globalenglishcampus.com,4037,English Advantage - Book 1,10
+4383,大井町校,school,la000172@globalenglishcampus.com,4547,English Advantage - Pre-Advanced Book 7,2
+4383,大井町校,school,la000172@globalenglishcampus.com,4548,English Advantage - Pre-Advanced Book 8,1
+4383,大井町校,school,la000172@globalenglishcampus.com,4549,English Advantage - Pre-Advanced Book 9,1
+4327,梅田校,school,la000073@globalenglishcampus.com,4052,Business Edge - Book 5 (B1),2
+4327,梅田校,school,la000073@globalenglishcampus.com,4053,Business Edge - Book 6 (B1),1
+4383,大井町校,school,la000172@globalenglishcampus.com,4545,English Advantage - Intermediate Book 5,4
+4383,大井町校,school,la000172@globalenglishcampus.com,4542,English Advantage - Novice Book 2,4
+4383,大井町校,school,la000172@globalenglishcampus.com,4541,English Advantage - Book 1,2
+4383,大井町校,school,la000172@globalenglishcampus.com,4543,English Advantage - Novice Book 3,3
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3519,English Advantage - Intermediate Book 5,2
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3520,English Advantage - Intermediate Book 6,1
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3524,English Advantage - Pre-Advanced Book 10,1
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3523,English Advantage - Pre-Advanced Book 9,1
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3522,English Advantage - Pre-Advanced Book 8,1
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3521,English Advantage - Pre-Advanced Book 7,1
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3516,English Advantage - Novice Book 2,5
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3517,English Advantage - Novice Book 3,3
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3518,English Advantage - Intermediate Book 4,3
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4026,English Advantage - Pre-Advanced Book 8,1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4032,Business Edge - Book 3 (A2),1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4033,Business Edge - Book 4 (B1),2
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4034,Business Edge - Book 5 (B1),1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4022,English Advantage - Intermediate Book 4,1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4023,English Advantage - Intermediate Book 5,1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4024,English Advantage - Intermediate Book 6,1
+4325,静岡モディ校,school,la000301@globalenglishcampus.com,4025,English Advantage - Pre-Advanced Book 7,1
+4259,仙台駅前校,school,la000085@globalenglishcampus.com,3429,English Advantage - Intermediate Book 5,1
+4259,仙台駅前校,school,la000085@globalenglishcampus.com,3428,English Advantage - Intermediate Book 4,2
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3158,English Advantage - Intermediate Book 4,7
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3159,English Advantage - Intermediate Book 5,8
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3160,English Advantage - Intermediate Book 6,7
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3161,English Advantage - Pre-Advanced Book 7,3
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3157,English Advantage - Novice Book 3,3
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3155,English Advantage - Book 1,2
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3156,English Advantage - Novice Book 2,2
+4383,大井町校,school,la000172@globalenglishcampus.com,4546,English Advantage - Intermediate Book 6,2
+4383,大井町校,school,la000172@globalenglishcampus.com,4544,English Advantage - Intermediate Book 4,4
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2856,English Advantage - Pre-Advanced Book 8,1
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2857,English Advantage - Pre-Advanced Book 9,1
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2853,English Advantage - Intermediate Book 5,8
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3882,English Advantage - Pre-Advanced Book 8,1
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3883,English Advantage - Pre-Advanced Book 9,1
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3884,English Advantage - Pre-Advanced Book 10,1
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3877,English Advantage - Novice Book 3,6
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3878,English Advantage - Intermediate Book 4,3
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3876,English Advantage - Novice Book 2,7
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3879,English Advantage - Intermediate Book 5,1
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3880,English Advantage - Intermediate Book 6,1
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3881,English Advantage - Pre-Advanced Book 7,1
+4289,福島校,school,la000103@globalenglishcampus.com,3700,English Advantage - Intermediate Book 6,3
+4289,福島校,school,la000103@globalenglishcampus.com,3702,English Advantage - Pre-Advanced Book 8,1
+4289,福島校,school,la000103@globalenglishcampus.com,3701,English Advantage - Pre-Advanced Book 7,1
+4289,福島校,school,la000103@globalenglishcampus.com,3697,English Advantage - Novice Book 3,4
+4289,福島校,school,la000103@globalenglishcampus.com,3696,English Advantage - Novice Book 2,4
+4289,福島校,school,la000103@globalenglishcampus.com,3698,English Advantage - Intermediate Book 4,3
+4289,福島校,school,la000103@globalenglishcampus.com,3699,English Advantage - Intermediate Book 5,3
+4327,梅田校,school,la000073@globalenglishcampus.com,4047,English Advantage - Foundations,3
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2861,Business Edge - Book 2 (A2),3
+4291,吉祥寺駅前校,school,la000217@globalenglishcampus.com,3719,English Advantage - Pre-Advanced Book 7,1
+4291,吉祥寺駅前校,school,la000217@globalenglishcampus.com,3713,English Advantage - Book 1,2
+4291,吉祥寺駅前校,school,la000217@globalenglishcampus.com,3714,English Advantage - Novice Book 2,4
+4291,吉祥寺駅前校,school,la000217@globalenglishcampus.com,3715,English Advantage - Novice Book 3,4
+4291,吉祥寺駅前校,school,la000217@globalenglishcampus.com,3716,English Advantage - Intermediate Book 4,2
+4291,吉祥寺駅前校,school,la000217@globalenglishcampus.com,3717,English Advantage - Intermediate Book 5,2
+4291,吉祥寺駅前校,school,la000217@globalenglishcampus.com,3718,English Advantage - Intermediate Book 6,1
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3576,English Advantage - Pre-Advanced Book 8,1
+4247,溝の口校,school,la000166@globalenglishcampus.com,3320,English Advantage - Intermediate Book 4,3
+4339,大宮校,school,la000400@globalenglishcampus.com,4149,English Advantage - Intermediate Book 5,4
+4339,大宮校,school,la000400@globalenglishcampus.com,4150,English Advantage - Intermediate Book 6,4
+4339,大宮校,school,la000400@globalenglishcampus.com,4151,English Advantage - Pre-Advanced Book 7,2
+4339,大宮校,school,la000400@globalenglishcampus.com,4147,English Advantage - Novice Book 3,8
+4339,大宮校,school,la000400@globalenglishcampus.com,4148,English Advantage - Intermediate Book 4,5
+4289,福島校,school,la000103@globalenglishcampus.com,3705,English Advantage - Foundations,2
+4289,福島校,school,la000103@globalenglishcampus.com,3695,English Advantage - Book 1,3
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4059,English Advantage - Intermediate Book 5,1
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4060,English Advantage - Intermediate Book 6,1
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4056,English Advantage - Novice Book 2,3
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4057,English Advantage - Novice Book 3,2
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4058,English Advantage - Intermediate Book 4,2
+4273,渋谷校,school,la000223@globalenglishcampus.com,3554,English Advantage - Intermediate Book 4,6
+4273,渋谷校,school,la000223@globalenglishcampus.com,3551,English Advantage - Book 1,6
+4273,渋谷校,school,la000223@globalenglishcampus.com,3552,English Advantage - Novice Book 2,9
+4273,渋谷校,school,la000223@globalenglishcampus.com,3553,English Advantage - Novice Book 3,8
+4283,銀座校,school,la000160@globalenglishcampus.com,3655,Business Edge - Book 4 (B1),6
+4283,銀座校,school,la000160@globalenglishcampus.com,3653,Business Edge - Book 2 (A2),8
+4283,銀座校,school,la000160@globalenglishcampus.com,3654,Business Edge - Book 3 (A2),7
+4339,大宮校,school,la000400@globalenglishcampus.com,4145,English Advantage - Book 1,4
+4339,大宮校,school,la000400@globalenglishcampus.com,4146,English Advantage - Novice Book 2,6
+4301,天神校,school,la000205@globalenglishcampus.com,3813,English Advantage - Foundations,2
+4015,CloudSchool関東,school,la703@globalenglishcampus.com,2156,English Advantage - Book 1,2
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3164,English Advantage - Pre-Advanced Book 10,1
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3162,English Advantage - Pre-Advanced Book 8,1
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3163,English Advantage - Pre-Advanced Book 9,1
+4283,銀座校,school,la000160@globalenglishcampus.com,3649,English Advantage - Pre-Advanced Book 9,8
+4283,銀座校,school,la000160@globalenglishcampus.com,3650,English Advantage - Pre-Advanced Book 10,2
+4225,新宿校,school,la000183@globalenglishcampus.com,3133,Business Edge - Book 4 (B1),2
+4225,新宿校,school,la000183@globalenglishcampus.com,3134,Business Edge - Book 5 (B1),2
+4225,新宿校,school,la000183@globalenglishcampus.com,3135,Business Edge - Book 6 (B1),2
+4221,池袋校,school,la000068@globalenglishcampus.com,3100,Business Edge - Book 1 (A1),2
+4221,池袋校,school,la000068@globalenglishcampus.com,3094,Business Edge - Foundations,1
+4221,池袋校,school,la000068@globalenglishcampus.com,3090,English Advantage - Pre-Advanced Book 8,3
+4221,池袋校,school,la000068@globalenglishcampus.com,3091,English Advantage - Pre-Advanced Book 9,2
+4283,銀座校,school,la000160@globalenglishcampus.com,3656,Business Edge - Book 5 (B1),1
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2834,English Advantage - Intermediate Book 4,4
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2831,English Advantage - Book 1,4
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2832,English Advantage - Novice Book 2,3
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2833,English Advantage - Novice Book 3,3
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3172,Business Edge - Book 1 (A1),1
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3167,Business Edge - Book 2 (A2),1
+4225,新宿校,school,la000183@globalenglishcampus.com,3132,Business Edge - Book 3 (A2),2
+4273,渋谷校,school,la000223@globalenglishcampus.com,3557,English Advantage - Pre-Advanced Book 7,1
+4273,渋谷校,school,la000223@globalenglishcampus.com,3558,English Advantage - Pre-Advanced Book 8,1
+4273,渋谷校,school,la000223@globalenglishcampus.com,3559,English Advantage - Pre-Advanced Book 9,1
+4273,渋谷校,school,la000223@globalenglishcampus.com,3560,English Advantage - Pre-Advanced Book 10,1
+4273,渋谷校,school,la000223@globalenglishcampus.com,3555,English Advantage - Intermediate Book 5,3
+4273,渋谷校,school,la000223@globalenglishcampus.com,3556,English Advantage - Intermediate Book 6,3
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4065,English Advantage - Foundations,1
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4055,English Advantage - Book 1,2
+4371,川崎ルフロン校,school,la000070@globalenglishcampus.com,4434,English Advantage - Novice Book 2,5
+4371,川崎ルフロン校,school,la000070@globalenglishcampus.com,4433,English Advantage - Book 1,4
+4371,川崎ルフロン校,school,la000070@globalenglishcampus.com,4435,English Advantage - Novice Book 3,4
+4373,川越校,school,la000131@globalenglishcampus.com,4453,English Advantage - Novice Book 3,5
+4373,川越校,school,la000131@globalenglishcampus.com,4454,English Advantage - Intermediate Book 4,3
+4373,川越校,school,la000131@globalenglishcampus.com,4451,English Advantage - Book 1,7
+4373,川越校,school,la000131@globalenglishcampus.com,4452,English Advantage - Novice Book 2,4
+4339,大宮校,school,la000400@globalenglishcampus.com,4155,English Advantage - Foundations,1
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2836,English Advantage - Intermediate Book 6,2
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2837,English Advantage - Pre-Advanced Book 7,1
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2838,English Advantage - Pre-Advanced Book 8,1
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2839,English Advantage - Pre-Advanced Book 9,1
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2835,English Advantage - Intermediate Book 5,2
+4247,溝の口校,school,la000166@globalenglishcampus.com,3321,English Advantage - Intermediate Book 5,2
+4247,溝の口校,school,la000166@globalenglishcampus.com,3322,English Advantage - Intermediate Book 6,2
+4221,池袋校,school,la000068@globalenglishcampus.com,3093,English Advantage - Foundations,2
+4013,天神校,school,la205@globalenglishcampus.com,2141,English Advantage - Intermediate Book 4,1
+4013,天神校,school,la205@globalenglishcampus.com,2142,English Advantage - Intermediate Book 5,1
+3983,池袋校,school,la68@globalenglishcampus.com,1869,English Advantage - Novice Book 2,1
+4239,沖縄校,school,la000405@globalenglishcampus.com,3245,English Advantage - Book 1,2
+4239,沖縄校,school,la000405@globalenglishcampus.com,3246,English Advantage - Novice Book 2,4
+4239,沖縄校,school,la000405@globalenglishcampus.com,3248,English Advantage - Intermediate Book 4,1
+4239,沖縄校,school,la000405@globalenglishcampus.com,3247,English Advantage - Novice Book 3,3
+4021,CloudSchool関西,school,la705@globalenglishcampus.com,2210,English Advantage - Book 1,1
+4021,CloudSchool関西,school,la705@globalenglishcampus.com,2211,English Advantage - Novice Book 2,1
+4247,溝の口校,school,la000166@globalenglishcampus.com,3323,English Advantage - Pre-Advanced Book 7,1
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3543,English Advantage - Foundations,4
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3533,English Advantage - Book 1,4
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3535,English Advantage - Novice Book 3,2
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4431,Business Edge - Book 6 (B1),1
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4416,English Advantage - Novice Book 2,4
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4427,Business Edge - Book 2 (A2),2
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4428,Business Edge - Book 3 (A2),2
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4429,Business Edge - Book 4 (B1),2
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4430,Business Edge - Book 5 (B1),1
+4303,高知校,school,la000425@globalenglishcampus.com,3822,English Advantage - Novice Book 2,2
+4303,高知校,school,la000425@globalenglishcampus.com,3823,English Advantage - Novice Book 3,4
+4303,高知校,school,la000425@globalenglishcampus.com,3821,English Advantage - Book 1,2
+4225,新宿校,school,la000183@globalenglishcampus.com,3129,English Advantage - Foundations,3
+3997,広島大手町校,school,la420@globalenglishcampus.com,1994,English Advantage - Book 1,1
+4345,久留米校,school,la000431@globalenglishcampus.com,4202,English Advantage - Intermediate Book 4,1
+4345,久留米校,school,la000431@globalenglishcampus.com,4201,English Advantage - Novice Book 3,1
+4345,久留米校,school,la000431@globalenglishcampus.com,4209,English Advantage - Foundations,1
+4345,久留米校,school,la000431@globalenglishcampus.com,4199,English Advantage - Book 1,1
+4345,久留米校,school,la000431@globalenglishcampus.com,4200,English Advantage - Novice Book 2,1
+4319,テックランド星ヶ丘校,school,la000022@globalenglishcampus.com,3968,English Advantage - Intermediate Book 4,1
+4319,テックランド星ヶ丘校,school,la000022@globalenglishcampus.com,3965,English Advantage - Book 1,1
+4319,テックランド星ヶ丘校,school,la000022@globalenglishcampus.com,3966,English Advantage - Novice Book 2,1
+4319,テックランド星ヶ丘校,school,la000022@globalenglishcampus.com,3967,English Advantage - Novice Book 3,1
+4357,所沢校,school,la000134@globalenglishcampus.com,4323,Business Edge - Book 6 (B1),1
+4357,所沢校,school,la000134@globalenglishcampus.com,4319,Business Edge - Book 2 (A2),3
+4357,所沢校,school,la000134@globalenglishcampus.com,4320,Business Edge - Book 3 (A2),1
+4357,所沢校,school,la000134@globalenglishcampus.com,4321,Business Edge - Book 4 (B1),1
+4357,所沢校,school,la000134@globalenglishcampus.com,4310,English Advantage - Intermediate Book 4,1
+4357,所沢校,school,la000134@globalenglishcampus.com,4322,Business Edge - Book 5 (B1),1
+4217,金山校,school,la000001@globalenglishcampus.com,3053,English Advantage - Pre-Advanced Book 7,1
+4401,上野校,school,la000318@globalenglishcampus.com,4706,English Advantage - Intermediate Book 4,1
+4401,上野校,school,la000318@globalenglishcampus.com,4713,English Advantage - Foundations,2
+4401,上野校,school,la000318@globalenglishcampus.com,4703,English Advantage - Book 1,2
+4401,上野校,school,la000318@globalenglishcampus.com,4704,English Advantage - Novice Book 2,2
+4401,上野校,school,la000318@globalenglishcampus.com,4705,English Advantage - Novice Book 3,2
+4339,大宮校,school,la000400@globalenglishcampus.com,4159,Business Edge - Book 4 (B1),1
+4339,大宮校,school,la000400@globalenglishcampus.com,4160,Business Edge - Book 5 (B1),1
+4339,大宮校,school,la000400@globalenglishcampus.com,4161,Business Edge - Book 6 (B1),1
+4339,大宮校,school,la000400@globalenglishcampus.com,4157,Business Edge - Book 2 (A2),1
+4339,大宮校,school,la000400@globalenglishcampus.com,4158,Business Edge - Book 3 (A2),1
+4263,横浜校,school,la000059@globalenglishcampus.com,3464,English Advantage - Intermediate Book 4,4
+4263,横浜校,school,la000059@globalenglishcampus.com,3465,English Advantage - Intermediate Book 5,2
+4263,横浜校,school,la000059@globalenglishcampus.com,3466,English Advantage - Intermediate Book 6,1
+4263,横浜校,school,la000059@globalenglishcampus.com,3461,English Advantage - Book 1,5
+4263,横浜校,school,la000059@globalenglishcampus.com,3462,English Advantage - Novice Book 2,7
+4263,横浜校,school,la000059@globalenglishcampus.com,3463,English Advantage - Novice Book 3,5
+4313,福山校,school,la000272@globalenglishcampus.com,3914,English Advantage - Intermediate Book 4,2
+4313,福山校,school,la000272@globalenglishcampus.com,3915,English Advantage - Intermediate Book 5,2
+4313,福山校,school,la000272@globalenglishcampus.com,3916,English Advantage - Intermediate Book 6,1
+4313,福山校,school,la000272@globalenglishcampus.com,3912,English Advantage - Novice Book 2,4
+4313,福山校,school,la000272@globalenglishcampus.com,3913,English Advantage - Novice Book 3,3
+4305,熊谷校,school,la000095@globalenglishcampus.com,3847,English Advantage - Pre-Advanced Book 9,1
+4305,熊谷校,school,la000095@globalenglishcampus.com,3848,English Advantage - Pre-Advanced Book 10,1
+4305,熊谷校,school,la000095@globalenglishcampus.com,3844,English Advantage - Intermediate Book 6,1
+4305,熊谷校,school,la000095@globalenglishcampus.com,3845,English Advantage - Pre-Advanced Book 7,1
+4305,熊谷校,school,la000095@globalenglishcampus.com,3846,English Advantage - Pre-Advanced Book 8,1
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4069,Business Edge - Book 4 (B1),1
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4070,Business Edge - Book 5 (B1),1
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4067,Business Edge - Book 2 (A2),2
+4329,CloudSchool関西,school,la000705@globalenglishcampus.com,4068,Business Edge - Book 3 (A2),1
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3515,English Advantage - Book 1,4
+4327,梅田校,school,la000073@globalenglishcampus.com,4054,Business Edge - Book 1 (A1),1
+4211,マーサ21校,school,la000176@globalenglishcampus.com,3003,English Advantage - Foundations,4
+4277,イオンモール北大路校,school,la000345@globalenglishcampus.com,3591,English Advantage - Intermediate Book 5,1
+4277,イオンモール北大路校,school,la000345@globalenglishcampus.com,3588,English Advantage - Novice Book 2,1
+4277,イオンモール北大路校,school,la000345@globalenglishcampus.com,3589,English Advantage - Novice Book 3,1
+4277,イオンモール北大路校,school,la000345@globalenglishcampus.com,3590,English Advantage - Intermediate Book 4,1
+4221,池袋校,school,la000068@globalenglishcampus.com,3092,English Advantage - Pre-Advanced Book 10,1
+4313,福山校,school,la000272@globalenglishcampus.com,3911,English Advantage - Book 1,3
+4309,岡山駅前校,school,la000242@globalenglishcampus.com,3885,English Advantage - Foundations,4
+4251,熊本校,school,la000407@globalenglishcampus.com,3355,English Advantage - Novice Book 3,4
+4251,熊本校,school,la000407@globalenglishcampus.com,3353,English Advantage - Book 1,5
+4251,熊本校,school,la000407@globalenglishcampus.com,3354,English Advantage - Novice Book 2,5
+4283,銀座校,school,la000160@globalenglishcampus.com,3658,Business Edge - Book 1 (A1),3
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3540,English Advantage - Pre-Advanced Book 8,1
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3539,English Advantage - Pre-Advanced Book 7,1
+4371,川崎ルフロン校,school,la000070@globalenglishcampus.com,4443,English Advantage - Foundations,4
+4383,大井町校,school,la000172@globalenglishcampus.com,4551,English Advantage - Foundations,2
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4432,Business Edge - Book 1 (A1),1
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4415,English Advantage - Book 1,3
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4417,English Advantage - Novice Book 3,1
+4373,川越校,school,la000131@globalenglishcampus.com,4455,English Advantage - Intermediate Book 5,3
+4373,川越校,school,la000131@globalenglishcampus.com,4456,English Advantage - Intermediate Book 6,1
+4251,熊本校,school,la000407@globalenglishcampus.com,3356,English Advantage - Intermediate Book 4,1
+4251,熊本校,school,la000407@globalenglishcampus.com,3357,English Advantage - Intermediate Book 5,1
+4251,熊本校,school,la000407@globalenglishcampus.com,3358,English Advantage - Intermediate Book 6,1
+4243,小倉校,school,la000178@globalenglishcampus.com,3281,English Advantage - Book 1,1
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2859,English Advantage - Foundations,2
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2866,Business Edge - Book 1 (A1),1
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2860,Business Edge - Foundations,1
+4307,柏駅前校,school,la000087@globalenglishcampus.com,3871,Business Edge - Book 4 (B1),1
+4307,柏駅前校,school,la000087@globalenglishcampus.com,3872,Business Edge - Book 5 (B1),1
+4307,柏駅前校,school,la000087@globalenglishcampus.com,3869,Business Edge - Book 2 (A2),1
+4307,柏駅前校,school,la000087@globalenglishcampus.com,3870,Business Edge - Book 3 (A2),1
+4251,熊本校,school,la000407@globalenglishcampus.com,3363,English Advantage - Foundations,1
+4237,立川校,school,la000056@globalenglishcampus.com,3237,English Advantage - Foundations,1
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3550,Business Edge - Book 1 (A1),1
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3544,Business Edge - Foundations,1
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4646,Business Edge - Book 5 (B1),1
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4645,Business Edge - Book 4 (B1),1
+4263,横浜校,school,la000059@globalenglishcampus.com,3471,English Advantage - Foundations,1
+4371,川崎ルフロン校,school,la000070@globalenglishcampus.com,4436,English Advantage - Intermediate Book 4,2
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3165,English Advantage - Foundations,2
+4311,ピオレ姫路校,school,la000333@globalenglishcampus.com,3893,English Advantage - Book 1,2
+4311,ピオレ姫路校,school,la000333@globalenglishcampus.com,3903,English Advantage - Foundations,3
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3525,English Advantage - Foundations,1
+4269,三ノ宮校,school,la000123@globalenglishcampus.com,3529,Business Edge - Book 4 (B1),1
+4229,京都駅前校,school,la000143@globalenglishcampus.com,3169,Business Edge - Book 4 (B1),1
+4303,高知校,school,la000425@globalenglishcampus.com,3824,English Advantage - Intermediate Book 4,3
+4231,あべのキューズモール校,school,la000141@globalenglishcampus.com,3183,English Advantage - Foundations,2
+4371,川崎ルフロン校,school,la000070@globalenglishcampus.com,4437,English Advantage - Intermediate Book 5,1
+4371,川崎ルフロン校,school,la000070@globalenglishcampus.com,4438,English Advantage - Intermediate Book 6,1
+4273,渋谷校,school,la000223@globalenglishcampus.com,3561,English Advantage - Foundations,2
+4251,熊本校,school,la000407@globalenglishcampus.com,3370,Business Edge - Book 1 (A1),1
+4251,熊本校,school,la000407@globalenglishcampus.com,3364,Business Edge - Foundations,1
+4251,熊本校,school,la000407@globalenglishcampus.com,3365,Business Edge - Book 2 (A2),2
+4383,大井町校,school,la000172@globalenglishcampus.com,4555,Business Edge - Book 4 (B1),3
+4383,大井町校,school,la000172@globalenglishcampus.com,4553,Business Edge - Book 2 (A2),2
+4383,大井町校,school,la000172@globalenglishcampus.com,4554,Business Edge - Book 3 (A2),2
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3143,English Advantage - Pre-Advanced Book 7,1
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3144,English Advantage - Pre-Advanced Book 8,1
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3145,English Advantage - Pre-Advanced Book 9,1
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3141,English Advantage - Intermediate Book 5,1
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3142,English Advantage - Intermediate Book 6,1
+4383,大井町校,school,la000172@globalenglishcampus.com,4556,Business Edge - Book 5 (B1),1
+4265,西宮北口校,school,la000347@globalenglishcampus.com,3483,English Advantage - Intermediate Book 5,1
+4265,西宮北口校,school,la000347@globalenglishcampus.com,3482,English Advantage - Intermediate Book 4,1
+4265,西宮北口校,school,la000347@globalenglishcampus.com,3481,English Advantage - Novice Book 3,1
+4265,西宮北口校,school,la000347@globalenglishcampus.com,3480,English Advantage - Novice Book 2,1
+4371,川崎ルフロン校,school,la000070@globalenglishcampus.com,4447,Business Edge - Book 4 (B1),1
+4221,池袋校,school,la000068@globalenglishcampus.com,3095,Business Edge - Book 2 (A2),1
+4275,名古屋駅前校,school,la000003@globalenglishcampus.com,3579,English Advantage - Foundations,2
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3139,English Advantage - Novice Book 3,2
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3138,English Advantage - Novice Book 2,4
+4313,福山校,school,la000272@globalenglishcampus.com,3921,English Advantage - Foundations,2
+4301,天神校,school,la000205@globalenglishcampus.com,3818,Business Edge - Book 5 (B1),1
+4301,天神校,school,la000205@globalenglishcampus.com,3819,Business Edge - Book 6 (B1),1
+4383,大井町校,school,la000172@globalenglishcampus.com,4558,Business Edge - Book 1 (A1),2
+4361,なんば校,school,la000159@globalenglishcampus.com,4355,Business Edge - Book 2 (A2),1
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2863,Business Edge - Book 4 (B1),2
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2864,Business Edge - Book 5 (B1),1
+4417,CloudSchool東北,school,la000702@globalenglishcampus.com,4848,English Advantage - Novice Book 2,1
+4293,徳島校,school,la000427@globalenglishcampus.com,3741,English Advantage - Foundations,2
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4648,Business Edge - Book 1 (A1),1
+4015,CloudSchool関東,school,la703@globalenglishcampus.com,2170,Business Edge - Book 4 (B1),1
+4357,所沢校,school,la000134@globalenglishcampus.com,4307,English Advantage - Book 1,2
+4195,CloudSchool関東,school,la000703@globalenglishcampus.com,2862,Business Edge - Book 3 (A2),1
+4345,久留米校,school,la000431@globalenglishcampus.com,4211,Business Edge - Book 2 (A2),1
+4057,福山校,school,la272@globalenglishcampus.com,2544,English Advantage - Foundations,1
+4057,福山校,school,la272@globalenglishcampus.com,2534,English Advantage - Book 1,1
+4057,福山校,school,la272@globalenglishcampus.com,2535,English Advantage - Novice Book 2,1
+4303,高知校,school,la000425@globalenglishcampus.com,3825,English Advantage - Intermediate Book 5,1
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3147,English Advantage - Foundations,2
+4225,新宿校,school,la000183@globalenglishcampus.com,3131,Business Edge - Book 2 (A2),1
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3793,English Advantage - Pre-Advanced Book 9,1
+4375,枚方校,school,la000114@globalenglishcampus.com,4471,English Advantage - Novice Book 3,1
+4213,東岡崎校,school,la000027@globalenglishcampus.com,3021,English Advantage - Foundations,1
+4213,東岡崎校,school,la000027@globalenglishcampus.com,3011,English Advantage - Book 1,1
+4347,ララガーデン春日部校,school,la000079@globalenglishcampus.com,4227,English Advantage - Foundations,1
+4347,ララガーデン春日部校,school,la000079@globalenglishcampus.com,4217,English Advantage - Book 1,1
+4273,渋谷校,school,la000223@globalenglishcampus.com,3565,Business Edge - Book 4 (B1),2
+4393,CloudSchool中四国,school,la000706@globalenglishcampus.com,4634,English Advantage - Intermediate Book 4,1
+4265,西宮北口校,school,la000347@globalenglishcampus.com,3491,Business Edge - Book 2 (A2),1
+4193,イオン海老名校,school,la000330@globalenglishcampus.com,2841,English Advantage - Foundations,4
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3802,Business Edge - Book 1 (A1),1
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3798,Business Edge - Book 3 (A2),1
+4299,浦和パルコ校,school,la000122@globalenglishcampus.com,3797,Business Edge - Book 2 (A2),1
+4357,所沢校,school,la000134@globalenglishcampus.com,4312,English Advantage - Intermediate Book 6,1
+4311,ピオレ姫路校,school,la000333@globalenglishcampus.com,3905,Business Edge - Book 2 (A2),1
+4231,あべのキューズモール校,school,la000141@globalenglishcampus.com,3173,English Advantage - Book 1,1
+4219,上大岡校,school,la000175@globalenglishcampus.com,3069,English Advantage - Intermediate Book 5,1
+4219,上大岡校,school,la000175@globalenglishcampus.com,3079,Business Edge - Book 4 (B1),1
+4219,上大岡校,school,la000175@globalenglishcampus.com,3080,Business Edge - Book 5 (B1),1
+4083,CloudSchool中部,school,la704@globalenglishcampus.com,2771,English Advantage - Intermediate Book 4,1
+4383,大井町校,school,la000172@globalenglishcampus.com,4552,Business Edge - Foundations,1
+4319,テックランド星ヶ丘校,school,la000022@globalenglishcampus.com,3975,English Advantage - Foundations,1
+4219,上大岡校,school,la000175@globalenglishcampus.com,3075,English Advantage - Foundations,1
+4291,吉祥寺駅前校,school,la000217@globalenglishcampus.com,3730,Business Edge - Book 1 (A1),1
+4227,札幌大通校,school,la000137@globalenglishcampus.com,3140,English Advantage - Intermediate Book 4,1
+4373,川越校,school,la000131@globalenglishcampus.com,4461,English Advantage - Foundations,1
+4245,松山校,school,la000426@globalenglishcampus.com,3309,English Advantage - Foundations,1
+4245,松山校,school,la000426@globalenglishcampus.com,3299,English Advantage - Book 1,1
+4369,錦糸町校,school,la000047@globalenglishcampus.com,4425,English Advantage - Foundations,1
+4265,西宮北口校,school,la000347@globalenglishcampus.com,3493,Business Edge - Book 4 (B1),1
+4307,柏駅前校,school,la000087@globalenglishcampus.com,3858,English Advantage - Novice Book 2,1
+4357,所沢校,school,la000134@globalenglishcampus.com,4317,English Advantage - Foundations,1
+4357,所沢校,school,la000134@globalenglishcampus.com,4308,English Advantage - Novice Book 2,1
+4085,松山校,school,la426@globalenglishcampus.com,2796,English Advantage - Foundations,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2817,Business Edge - Foundations,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2823,Business Edge - Book 1 (A1),2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2818,Business Edge - Book 2 (A2),2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2819,Business Edge - Book 3 (A2),2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2820,Business Edge - Book 4 (B1),2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2821,Business Edge - Book 5 (B1),2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2822,Business Edge - Book 6 (B1),2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2816,English Advantage - Foundations,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2806,English Advantage - Book 1,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2807,English Advantage - Novice Book 2,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2808,English Advantage - Novice Book 3,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2809,English Advantage - Intermediate Book 4,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2810,English Advantage - Intermediate Book 5,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2811,English Advantage - Intermediate Book 6,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2812,English Advantage - Pre-Advanced Book 7,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2813,English Advantage - Pre-Advanced Book 8,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2814,English Advantage - Pre-Advanced Book 9,2
+4179,La-Demo ,school,lad900@globalenglishcampus.com,2815,English Advantage - Pre-Advanced Book 10,2
+4375,枚方校,school,la000114@globalenglishcampus.com,4469,English Advantage - Book 1,1
+4231,あべのキューズモール校,school,la000141@globalenglishcampus.com,3176,English Advantage - Intermediate Book 4,1
+4231,あべのキューズモール校,school,la000141@globalenglishcampus.com,3177,English Advantage - Intermediate Book 5,1
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3536,English Advantage - Intermediate Book 4,1
+4271,広島大手町校,school,la000420@globalenglishcampus.com,3537,English Advantage - Intermediate Book 5,1
+4211,マーサ21校,school,la000176@globalenglishcampus.com,3006,Business Edge - Book 3 (A2),1

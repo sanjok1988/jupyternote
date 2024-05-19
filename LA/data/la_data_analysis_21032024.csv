@@ -1,0 +1,91 @@
+"school_id","class_id","name","event_id","lesson_id","student_id","email","student_reg_date","start_time","end_time","event_type","assignment_type"
+4299,3785,English Advantage - Book 1,359475,1187,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-04-20 00:00:00","2024-04-24 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359476,1556,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-04-27 00:00:00","2024-05-01 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359477,1557,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-05-04 00:00:00","2024-05-08 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359478,1558,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-05-11 00:00:00","2024-05-15 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359479,1559,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-05-18 00:00:00","2024-05-22 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359480,1560,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-05-25 00:00:00","2024-05-29 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359481,1561,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-01 00:00:00","2024-06-05 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359482,1562,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-08 00:00:00","2024-06-12 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359483,1563,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-15 00:00:00","2024-06-19 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359484,1564,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-22 00:00:00","2024-06-26 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359485,1565,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-29 00:00:00","2024-07-03 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359486,1566,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-07-06 00:00:00","2024-07-10 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359487,1567,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-07-13 00:00:00","2024-07-17 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359488,1568,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-07-20 00:00:00","2024-07-24 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359489,1569,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-07-27 00:00:00","2024-07-31 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359490,1570,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-03 00:00:00","2024-08-07 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359491,1571,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-10 00:00:00","2024-08-14 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359492,1572,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-17 00:00:00","2024-08-21 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359493,1573,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-24 00:00:00","2024-08-28 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359494,1574,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-31 00:00:00","2024-09-04 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359495,1575,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-09-07 00:00:00","2024-09-11 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359496,1576,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-09-14 00:00:00","2024-09-18 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359497,1577,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-09-21 00:00:00","2024-09-25 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359498,1578,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-09-28 00:00:00","2024-10-02 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359499,1579,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-10-05 00:00:00","2024-10-09 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359500,1580,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-10-12 00:00:00","2024-10-16 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359501,1581,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-10-19 00:00:00","2024-10-23 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359502,1582,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-10-26 00:00:00","2024-10-30 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359503,1583,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-11-02 00:00:00","2024-11-06 00:00:00",calendar,private
+4299,3785,English Advantage - Book 1,359504,1584,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-11-09 00:00:00","2024-11-13 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359505,1585,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-04-20 00:00:00","2024-04-24 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359506,1586,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-04-27 00:00:00","2024-05-01 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359507,1587,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-05-04 00:00:00","2024-05-08 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359508,1588,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-05-11 00:00:00","2024-05-15 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359509,1589,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-05-18 00:00:00","2024-05-22 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359510,1590,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-05-25 00:00:00","2024-05-29 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359511,1591,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-01 00:00:00","2024-06-05 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359512,1592,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-08 00:00:00","2024-06-12 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359513,1593,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-15 00:00:00","2024-06-19 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359514,1594,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-22 00:00:00","2024-06-26 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359515,1595,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-06-29 00:00:00","2024-07-03 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359516,1596,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-07-06 00:00:00","2024-07-10 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359517,1597,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-07-13 00:00:00","2024-07-17 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359518,1598,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-07-20 00:00:00","2024-07-24 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359519,1599,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-07-27 00:00:00","2024-07-31 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359520,1600,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-03 00:00:00","2024-08-07 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359521,1601,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-10 00:00:00","2024-08-14 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359522,1602,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-17 00:00:00","2024-08-21 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359523,1603,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-24 00:00:00","2024-08-28 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359524,1604,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-08-31 00:00:00","2024-09-04 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359525,1605,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-09-07 00:00:00","2024-09-11 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359526,1606,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-09-14 00:00:00","2024-09-18 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359527,1607,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-09-21 00:00:00","2024-09-25 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359528,1608,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-09-28 00:00:00","2024-10-02 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359529,1609,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-10-05 00:00:00","2024-10-09 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359530,1610,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-10-12 00:00:00","2024-10-16 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359531,1611,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-10-19 00:00:00","2024-10-23 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359532,1612,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-10-26 00:00:00","2024-10-30 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359533,1613,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-11-02 00:00:00","2024-11-06 00:00:00",calendar,private
+4299,3786,English Advantage - Novice Book 2,359534,1614,4431,L2404824973@globalenglishcampus.com,"2024-04-21 00:05:34","2024-11-09 00:00:00","2024-11-13 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359535,1585,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-04-20 00:00:00","2024-04-24 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359536,1586,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-04-27 00:00:00","2024-05-01 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359537,1587,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-05-04 00:00:00","2024-05-08 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359538,1588,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-05-11 00:00:00","2024-05-15 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359539,1589,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-05-18 00:00:00","2024-05-22 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359540,1590,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-05-25 00:00:00","2024-05-29 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359541,1591,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-06-01 00:00:00","2024-06-05 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359542,1592,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-06-08 00:00:00","2024-06-12 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359543,1593,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-06-15 00:00:00","2024-06-19 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359544,1594,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-06-22 00:00:00","2024-06-26 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359545,1595,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-06-29 00:00:00","2024-07-03 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359546,1596,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-07-06 00:00:00","2024-07-10 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359547,1597,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-07-13 00:00:00","2024-07-17 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359548,1598,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-07-20 00:00:00","2024-07-24 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359549,1599,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-07-27 00:00:00","2024-07-31 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359550,1600,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-08-03 00:00:00","2024-08-07 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359551,1601,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-08-10 00:00:00","2024-08-14 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359552,1602,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-08-17 00:00:00","2024-08-21 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359553,1603,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-08-24 00:00:00","2024-08-28 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359554,1604,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-08-31 00:00:00","2024-09-04 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359555,1605,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-09-07 00:00:00","2024-09-11 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359556,1606,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-09-14 00:00:00","2024-09-18 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359557,1607,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-09-21 00:00:00","2024-09-25 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359558,1608,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-09-28 00:00:00","2024-10-02 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359559,1609,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-10-05 00:00:00","2024-10-09 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359560,1610,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-10-12 00:00:00","2024-10-16 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359561,1611,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-10-19 00:00:00","2024-10-23 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359562,1612,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-10-26 00:00:00","2024-10-30 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359563,1613,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-11-02 00:00:00","2024-11-06 00:00:00",calendar,private
+4301,3804,English Advantage - Novice Book 2,359564,1614,4432,L2404825956@globalenglishcampus.com,"2024-04-21 00:05:37","2024-11-09 00:00:00","2024-11-13 00:00:00",calendar,private

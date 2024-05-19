@@ -1,0 +1,11 @@
+{
+  "messages": {
+    "welcome": "Welcome to Global English Campus",
+    "please-sign-in": "Please sign-in to your account",
+    "tableHeader": {
+      "salary": "Salary",
+      "status": "Status",
+      "action": "Action"
+    }
+  }
+}
